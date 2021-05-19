@@ -10,10 +10,6 @@ import UIKit
 class ViewController: UIViewController {
 
 
-    @IBOutlet weak var topUIView: UIView!
-    
-    @IBOutlet weak var botUIView: UIView!
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
